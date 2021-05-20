@@ -1,0 +1,21 @@
+event_type,veh_type,Dwell_time
+Parked,Large passenger vehicle,26.31755319
+Parked,Passenger vehicle,15.86558363
+Parked,TNC,4.385612154
+Parked,Taxi,12.52833333
+Parked,Truck,12.99079602
+Passenger load,Large passenger vehicle,32.5375
+Passenger load,Passenger vehicle,3.578948175
+Passenger load,TNC,1.003159104
+Passenger load,Taxi,6.597619048
+Passenger load,Truck,3.966666667
+Passenger unload,Large passenger vehicle,4.285119048
+Passenger unload,Passenger vehicle,1.039822892
+Passenger unload,TNC,0.561414677
+Passenger unload,Taxi,1.488690476
+Passenger unload,Truck,3.572222222
+Un-parked,Large passenger vehicle,39.72638889
+Un-parked,Passenger vehicle,33.14789272
+Un-parked,TNC,9.303571429
+Un-parked,Taxi,3.433333333
+Un-parked,Truck,23.11614583
